@@ -1,4 +1,4 @@
-# Work copied from local machine in another Github account so progress wont be saved 
+# The main.py file was edited n made in local file in another machine in another Github account
 print("Welcome to the school cantteen!")
 
 
